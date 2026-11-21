@@ -11,22 +11,28 @@
 
 ## 👨‍💻 About Me
 
-🎓 Final-year B.E. student specializing in Artificial Intelligence and Machine Learning.
+🎓 Final-year B.E. student specializing in Artificial Intelligence and Machine Learning (2027).
 
-💡 Passionate about Artificial Intelligence, Machine Learning, Computer Vision, and building practical software applications.
+💡 Interested in Software Development, Full-Stack Development, Artificial Intelligence, and Machine Learning.
 
-🛠️ Building AI/ML projects and full-stack applications using Python, TensorFlow, FastAPI, Flask, and React.
+🛠️ Building practical applications using Python, React, FastAPI, Flask, and machine learning technologies.
 
-🚀 Interested in intelligent systems, deep learning, and AI-powered solutions to real-world problems.
+🚀 Passionate about developing real-world solutions, learning new technologies, and exploring AI-powered applications.
 
 ---
 
 ## 🛠️ Tech Stack & Tooling
 
-**Languages & Core Frameworks**
+**Programming Languages & Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,fastapi,flask" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,html,css" />
+</p>
+
+**Backend & Frameworks**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask" />
 </p>
 
 **AI, Machine Learning & Computer Vision**
@@ -48,16 +54,27 @@
 ### 1. CycleSense
 **AI-Based Longitudinal Women's Health Monitoring and Risk-Assessment System**
 
-- Menstrual cycle tracking and daily symptom journaling.
-- Longitudinal health history and health-analysis APIs.
-- React frontend and FastAPI backend with SQLite integration.
+An ongoing full-stack project focused on women's health monitoring and cycle management.
 
-**Tech Stack:** React · Python · FastAPI · SQLite · SQLAlchemy · JWT
+- Menstrual cycle tracking and daily symptom journaling.
+- Longitudinal health history and cycle-analysis APIs.
+- React frontend with FastAPI backend.
+- SQLite database integration using SQLAlchemy.
+- User authentication using JWT.
+
+**Tech Stack:** React.js · Python · FastAPI · SQLite · SQLAlchemy · JWT
+
+🔗 [View Project Repository](https://github.com/Chinmayeel-19/CycleSense)
+
+*Status: Actively under development.*
 
 ### 2. Blood Group Detection Using Fingerprint
 
-- CNN-based image classification for eight blood group categories.
+A deep-learning project that uses CNN-based image classification to predict eight blood group categories from fingerprint images.
+
+- CNN-based image classification.
 - Fingerprint image preprocessing using OpenCV.
+- Image normalization and augmentation.
 - Flask-based web application for image upload and prediction.
 
 **Tech Stack:** Python · TensorFlow · Keras · OpenCV · Flask
@@ -66,3 +83,23 @@
 
 ---
 
+## 🎯 Currently Exploring
+
+- Full-Stack Web Development
+- Backend Development and REST API Integration
+- AI/ML Application Development
+- Building practical software solutions
+- Git and collaborative development
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/chinmayee-lokesh-b174b3396/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Chinmayeel-19">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
