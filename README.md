@@ -4,6 +4,7 @@
 
 </div>
 
+
 💜 Turning curiosity into intelligent solutions.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=9B7BFF&center=true&vCenter=true&width=750&lines=Exploring+Artificial+Intelligence+%F0%9F%A4%96;Building+with+Python+%26+Machine+Learning;Creating+real-world+applications+%F0%9F%9A%80;Learning+Today.+Building+for+Tomorrow." />
