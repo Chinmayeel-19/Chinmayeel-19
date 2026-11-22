@@ -1,13 +1,36 @@
 
-<h1 align="center">Hi there, I'm Chinmayee Lokesh 👋</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/chinmayee-lokesh-b174b3396/">LinkedIn</a> •
-  <a href="https://github.com/Chinmayeel-19">GitHub</a> •
-  <a href="mailto:chinmayeelokesh19@gmail.com">Email</a>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:111827,100:242447&text=Chinmayee%20Lokesh&fontSize=43&fontColor=ffffff&fontAlignY=45&desc=AI%20%26%20Machine%20Learning%20Engineering%20Student&descSize=16&descAlignY=72&animation=fadeIn" width="100%" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8585FF&center=true&vCenter=true&width=750&lines=Building+intelligent+systems+with+Python;Exploring+AI%2FML+and+Computer+Vision;Developing+full-stack+applications;Turning+ideas+into+practical+solutions" alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIPS-8585FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DEGREE-B.E.%20CSE%20(AI%26ML)-242447?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CLASS-OF%202027-8585FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LOCATION-INDIA-242447?style=for-the-badge" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/chinmayee-lokesh-b174b3396/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://github.com/Chinmayeel-19">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+</a>
+<a href="mailto:chinmayeelokesh19@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+
+</div>
 
 ---
+
 
 ## 👨‍💻 About Me
 
