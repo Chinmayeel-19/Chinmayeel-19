@@ -1,34 +1,35 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EAF6FF,50:DCEBFA,100:C9E4F7&height=230&section=header&text=Chinmayee%20Lokesh&fontSize=52&fontColor=263B59&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineering%20Student&descSize=17&descColor=405875&descAlignY=58&animation=fadeIn" width="100%" />
+# Chinmayee L 
 
-</div>
+### AI & Machine Learning Engineering Student
 
+**Turning curiosity into intelligent solutions.**
 
-💜 Turning curiosity into intelligent solutions.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=9B7BFF&center=true&vCenter=true&width=750&lines=Exploring+Artificial+Intelligence+%F0%9F%A4%96;Building+with+Python+%26+Machine+Learning;Creating+real-world+applications+%F0%9F%9A%80;Learning+Today.+Building+for+Tomorrow." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=9B7BFF&center=true&vCenter=true&width=800&lines=Exploring+Artificial+Intelligence+%F0%9F%A4%96;Building+with+Python+and+Machine+Learning;Turning+ideas+into+working+applications;Learning+today.+Building+for+tomorrow" alt="Animated introduction" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS%20%26%20OPPORTUNITIES-9B59B6?style=for-the-badge&logo=handshake&logoColor=white" />
-<img src="https://img.shields.io/badge/DEGREE-B.E.%20AI%20%26%20ML-6C63FF?style=for-the-badge&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/GRADUATION-2027-00B8D9?style=for-the-badge&logo=google-scholar&logoColor=white" />
-<img src="https://img.shields.io/badge/LOCATION-BENGALURU-FF69B4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK%20%26%20INTERNSHIPS-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DEGREE-B.E.%20AI%20%26%20ML-6366F1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LOCATION-BENGALURU-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BATCH-2027-8B5CF6?style=for-the-badge" />
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/chinmayee-lokesh-b174b3396/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/Chinmayee-19">
-<img src="https://img.shields.io/badge/GitHub-Follow-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:chinmayeelokesh19@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
+
+---
 
 ## 💫 About Me
 
