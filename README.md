@@ -1,13 +1,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:101525,100:25264B&text=Chinmayee%20Lokesh&fontSize=46&fontColor=FFFFFF&fontAlignY=42&desc=AI%20%26%20Machine%20Learning%20Engineering%20Student&descSize=16&descAlignY=68" width="100%" alt="Chinmayee Lokesh profile banner" />
+<h1>Chinmayee Lokesh 👋</h1>
 
-<br/>
+<h3>AI & Machine Learning Engineering Student</h3>
 
-<h3>Turning curiosity into intelligent solutions.</h3>
+<p><b>Turning curiosity into intelligent solutions.</b></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3500&pause=1000&color=9292FF&center=true&vCenter=true&width=800&lines=Exploring+the+world+of+Artificial+Intelligence;Building+with+Python+and+Machine+Learning;Turning+ideas+into+working+applications;Learning+today.+Building+for+tomorrow." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3500&pause=1000&color=8585FF&center=true&vCenter=true&width=800&lines=Exploring+the+world+of+Artificial+Intelligence;Building+with+Python+and+Machine+Learning;Turning+ideas+into+working+applications;Learning+today.+Building+for+tomorrow." alt="Animated introduction" />
 
 <br/><br/>
 
@@ -19,18 +19,19 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/chinmayee-lokesh-b174b3396/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/Chinmayeel-19">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="mailto:chinmayeelokesh19@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
 
 ---
+
 
 
 ## 👨‍💻 About Me
