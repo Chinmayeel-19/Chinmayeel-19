@@ -1,6 +1,8 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:9B59B6,100:00C9FF&height=200&section=header&text=Chinmayee%20Lokesh&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineering%20Student&descSize=17&descAlignY=60&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EAF6FF,50:DCEBFA,100:C9E4F7&height=230&section=header&text=Chinmayee%20Lokesh&fontSize=52&fontColor=263B59&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineering%20Student&descSize=17&descColor=405875&descAlignY=58&animation=fadeIn" width="100%" />
+
+</div>
 
 💜 Turning curiosity into intelligent solutions.
 
